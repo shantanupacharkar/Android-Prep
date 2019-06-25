@@ -8,7 +8,7 @@ Use the study guide to prepare for the Google Associate Android Developer Certif
 - [Testing](#testing)
 
 
-### Android core
+## Android core
 Android is an operating system based on Linux and designed primarily for mobile devices. Android applications can be multitasking and are written in Java, Kotlin or C++.
 
 To prepare for the AAD certification exam, Android developers should:
@@ -30,7 +30,7 @@ Resources
 - [Codelabs -> JobScheduler](https://codelabs.developers.google.com/codelabs/android-training-job-scheduler/index.html?index=..%2F..android-training#0)
 
 
-### User interface
+## User interface
 The Android framework enables developers to create useful apps with effective user interfaces. Developers need to understand Android’s activities, views and layouts to create attractive UIs that maximize usability and the overall user experience.
 
 To prepare for the AAD certification exam, Android developers should:
@@ -64,7 +64,7 @@ Resources
 - [Codelabs -> Menus and pickers](https://codelabs.developers.google.com/codelabs/android-training-menus-and-pickers/index.html?index=..%2F..android-training#0)
 - [Codelabs -> User navigation](https://codelabs.developers.google.com/codelabs/android-training-provide-user-navigation/index.html?index=..%2F..android-training#0)
 
-### Data management
+## Data management
 Many Android apps store and retrieve user information that persists beyond the life of the app.
 
 To prepare for the AAD certification exam, Android developers should:
@@ -85,7 +85,7 @@ Resources
 - Android Developers -> SharedPreferences.Editor
 - Codelabs -> App settings
 
-### Debugging
+## Debugging
 Debugging is the process of isolating and removing defects in software code. By understanding the debugging tools in Android Studio, Android developers can create reliable and robust applications.
 
 To prepare for the AAD certification exam, Android developers should:
@@ -103,7 +103,7 @@ Resources
 - Codelabs -> Android Studio debugger
 
 
-### Testing
+## Testing
 Software testing is the process of executing a program with the intent of finding errors and abnormal or unexpected behavior. Testing and test-driven development (TDD) is a critically important step of the software development process for all Android developers. It helps to reduce defect rates in commercial and enterprise software.
 
 To prepare for the AAD certification exam, Android developers should:
